@@ -34,16 +34,33 @@ situación de completo aislamiento eléctrico. En relación con transformadores.
 - ![image](https://user-images.githubusercontent.com/105893980/185279851-8d9c9309-6b3e-4db2-8225-995f82d4330c.png)
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 - ![image](https://user-images.githubusercontent.com/105893980/185279894-e629449f-a3b2-4403-984b-cca8d42534ea.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185288829-e51dac73-317f-4bb1-a4c5-fc212fcefe48.png)
 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
--
+- ![image](https://user-images.githubusercontent.com/105893980/185288874-bd82b1e8-a986-4bb9-a38d-bbae053d338f.png)
 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
 - ![image](https://user-images.githubusercontent.com/105893980/185279943-268f52e8-500c-4d4f-a6f5-5ae75ec8e99c.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185288912-3fe279dc-038c-466f-821c-c3fdceb3c543.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185288959-763710cd-e075-4df5-83f9-a9bd39f988ab.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185288981-b0d2c5ca-52fe-42a9-8cb1-7849d9d2f929.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289006-ab3f703b-72f3-44ad-9054-7c5593b154b1.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289026-b8847558-5a77-4053-9f61-3dede478336b.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289064-69809619-531b-4cb5-84d3-f457be99b09a.png)
 20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 - ![image](https://user-images.githubusercontent.com/105893980/185279989-35434c83-e90b-45eb-94f6-cf1ec3218547.png)
 22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 - ![image](https://user-images.githubusercontent.com/105893980/185280061-84099c39-fc59-47cc-bb1e-66a68257b9fe.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289152-12aa2714-8b95-4fee-9c8f-345a3b72bc12.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289176-4a6febb5-5660-472b-93b2-81bab7ebe644.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289190-683516da-df5e-413c-9e67-2dc684655127.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289206-54f6e8c0-bc09-42f2-a6a7-862ffa82cb78.png)
+
 24. Repita el problema 22 para los siguientes instantes:
 - ![image](https://user-images.githubusercontent.com/105893980/185280107-88475995-e646-4898-9571-b7e8f6efa015.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289310-34ab1614-16d1-48d7-8532-42b7b88efbea.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289336-86cc08e2-27d5-41e6-87ba-c95e4120dbe9.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289355-a1730743-b67d-4fe0-8986-bf35bc4c83dc.png)
+- ![image](https://user-images.githubusercontent.com/105893980/185289370-91bca7d4-97df-47de-9b0a-43251468de2a.png)
+
 26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 - ![image](https://user-images.githubusercontent.com/105893980/185280170-69dd10a4-0e95-4f9b-8a9e-861d75bc09a9.png)
 - ![image](https://user-images.githubusercontent.com/105893980/185280268-92de762b-b33f-440b-9afd-bfe2e72a5586.png)
