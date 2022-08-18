@@ -147,6 +147,6 @@ a) ¿Cuál es la relación de vueltas si los 120v son de voltaje secundario?
 - https://youtu.be/mlZlt8jMJGs
 - https://youtu.be/UcwQ21VrSZA
 5. CONCLUSION
-- Llegamos a la conclusion de quqe los capacitores en serie y en paralelo no son iguales, ya que en la conexion en serie la carga permanece constante mientras que en paralelo las cargas no son iguales en tres capacitores conectados. Asi como en la conexion paralela pueden conectarse varios capacitores a la misma fuente y la conexion en serie solo se conecta la placa positiva del capacitor a la negativa.
+- Llegamos a la conclusion de que los capacitores en serie y en paralelo no son iguales, ya que en la conexion en serie la carga permanece constante mientras que en paralelo las cargas no son iguales en tres capacitores conectados. Asi como en la conexion paralela pueden conectarse varios capacitores a la misma fuente y la conexion en serie solo se conecta la placa positiva del capacitor a la negativa.
 - En conclusión podemos decir que una de las diferencia principales que hay entre el transformador ideal y el real, es que en el transformador ideal no se consideran ningún tipo de perdidas,y en el transformador real se consideran las pérdidas, como las de dispersión, las de las bobinas (cobre) y las del núcleo. 
 6. Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
