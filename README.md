@@ -123,5 +123,10 @@ a) ¿Cuál es la relación de vueltas si los 120v son de voltaje secundario?
 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser, aunque no es de cero. ¿Cuál es la falla más probable?
 - ![image](https://user-images.githubusercontent.com/105893980/185283726-fddcf47c-3d42-4d92-ab23-145013608966.png)
 4. VIDEOS
-
+- CAPITULO 13
+- https://youtu.be/rDz_tMD0p28
+- https://youtu.be/tnMqoE831XI
+- CAPITULO 14
+- https://youtu.be/mlZlt8jMJGs
+- https://youtu.be/UcwQ21VrSZA
 5. CONCLUSION
