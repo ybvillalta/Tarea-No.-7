@@ -1,5 +1,5 @@
 1. OBJETIVO GENERAL
-- Debemos analizar el funcionamiento básico y las propiedades eléctricas de los inductores, así como los efectos de conectarlos en serie y en
+- Analizar el funcionamiento básico y las propiedades eléctricas de los inductores, así como los efectos de conectarlos en serie y en
 paralelo, sabiendo que un inductor es básicamente una bobina de alambre basado en el principio de inducción al electromagnetismo, además
 debemos tener en cuenta que para el estudio de transformadores tenemos que saber que se basa en el principio de inductancia mutua como no 
 existe contacto eléctrico entre dos bobinas magnéticamente acopladas, la transferencia de energía de una bobina a la otra se logra en una
